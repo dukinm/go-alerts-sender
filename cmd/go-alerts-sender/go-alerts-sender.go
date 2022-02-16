@@ -1,4 +1,4 @@
-package main
+package goAlertsSender
 
 import (
 	"crypto/rand"
